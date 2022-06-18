@@ -1,0 +1,44 @@
+[
+  {
+    "category": "Easter Egg",
+    "recipes": [
+      "windah-casino",
+      "easter-egg-cendy",
+      "easter-egg-aci-gamespot",
+      "easter-egg-rizad",
+      "easter-egg-rio",
+      "easter-egg-mefelz",
+      "easter-egg-obit",
+      "cd-miawaug",
+      "cd-windah",
+      "gelas-miawaug",
+      "sokocha"
+    ]
+  },
+  {
+    "category": "Tengkorak",
+    "recipes": [
+      "tengkorak",
+      "tengkorak-merah",
+      "tengkorak-biru",
+      "tengkorak-hijau",
+      "tengkorak-emas"
+    ]
+  },
+  {
+    "category": "Painting",
+    "recipes": [
+      "painting-warnet-life",
+      "painting-napos",
+      "painting-napos-fian"
+    ]
+  },
+  {
+    "category": "Witch's Stuffs",
+    "recipes": [
+      "peti-mati-meja",
+      "peti-mati-emas-meja",
+      "sapu"
+    ]
+  }
+]

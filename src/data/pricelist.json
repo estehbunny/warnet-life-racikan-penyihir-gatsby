@@ -1,0 +1,156 @@
+[
+  {
+    "path": "kotak-rahasia",
+    "description": "kotak rahasia",
+    "cost": {
+      "cash": 13000000
+    }
+  },
+  {
+    "path": "garam-suci",
+    "description": "garam suci",
+    "cost": {
+      "cash": 1000000
+    }
+  },
+  {
+    "path": "sandal",
+    "description": "sandal",
+    "cost": {
+      "cash": 500000
+    }
+  },
+  {
+    "path": "kamera",
+    "description": "kamera",
+    "cost": {
+      "cash": 40000000
+    }
+  },
+  {
+    "path": "mouse-gamer",
+    "description": "mouse Gamer",
+    "cost": {
+      "cash": 6400000
+    }
+  },
+  {
+    "path": "jam",
+    "description": "jam",
+    "cost": {
+      "cash": 500000
+    }
+  },
+  {
+    "path": "pc-gg",
+    "description": "PC GG",
+    "cost": {
+      "cash": 45000000
+    }
+  },
+  {
+    "path": "patung-bomby",
+    "description": "patung bomby",
+    "cost": {
+      "cash": 2750000
+    }
+  },
+  {
+    "path": "bunga-ungu",
+    "description": "bunga ungu",
+    "cost": {
+      "token": 10
+    }
+  },
+  {
+    "path": "monitor-4k",
+    "description": "Monitor 4K",
+    "cost": {
+      "cash": 28647500
+    }
+  },
+  {
+    "path": "mangkok-legend",
+    "description": "mangkok legendaris",
+    "cost": {
+      "gacha": true
+    }
+  },
+  {
+    "path": "pentungan",
+    "description": "pentungan",
+    "cost": {
+      "cash": 25000000
+    }
+  },
+  {
+    "path": "gelas-warnet",
+    "description": "gelas biasa",
+    "cost": {
+      "cash": 750000
+    }
+  },
+  {
+    "path": "kotak-alat",
+    "description": "kotak peralatan",
+    "cost": {
+      "cash": 12500000
+    }
+  },
+  {
+    "path": "toilet",
+    "description": "toilet",
+    "cost": {
+      "token": 13
+    }
+  },
+  {
+    "path": "toilet-emas",
+    "description": "toilet emas",
+    "cost": {
+      "gold": 110
+    }
+  },
+  {
+    "path": "peti-mati",
+    "description": "peti mati",
+    "cost": {
+      "token": 80
+    }
+  },
+  {
+    "path": "bunga-hitam",
+    "description": "bunga hitam",
+    "cost": {
+      "token": 10
+    }
+  },
+  {
+    "path": "bunga-putih",
+    "description": "bunga putih",
+    "cost": {
+      "token": 10
+    }
+  },
+  {
+    "path": "peti-mati-emas",
+    "description": "peti mati emas",
+    "cost": {
+      "gold": 80
+    }
+  },
+  {
+    "path": "kuali-mini",
+    "description": "kuali mini",
+    "cost": {
+      "token": 30
+    }
+  },
+  {
+    "path": "batu-nisan",
+    "description": "batu nisan",
+    "cost": {
+      "token": 50
+    }
+  }
+]

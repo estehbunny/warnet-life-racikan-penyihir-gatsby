@@ -1,0 +1,232 @@
+[
+  {
+    "id": "kotak-rahasia",
+    "path": "kotak-rahasia",
+    "description": "kotak rahasia"
+  },
+  {
+    "id": "garam-suci",
+    "path": "garam-suci",
+    "description": "garam suci"
+  },
+  {
+    "id": "sandal",
+    "path": "sandal",
+    "description": "sandal"
+  },
+  {
+    "id": "kamera",
+    "path": "kamera",
+    "description": "kamera"
+  },
+  {
+    "id": "windah-casino",
+    "path": "windah-casino",
+    "description": "Windah Casino",
+    "type": "magic"
+  },
+  {
+    "id": "mouse-gamer",
+    "path": "mouse-gamer",
+    "description": "mouse Gamer"
+  },
+  {
+    "id": "easter-egg-cendy",
+    "path": "easter-egg-cendy",
+    "description": "Perempuan Hilang"
+  },
+  {
+    "id": "jam",
+    "path": "jam",
+    "description": "jam"
+  },
+  {
+    "id": "easter-egg-aci-gamespot",
+    "path": "easter-egg-aci-gamespot",
+    "description": "Aci Gamespot"
+  },
+  {
+    "id": "pc-gg",
+    "path": "pc-gg",
+    "description": "PC GG"
+  },
+  {
+    "id": "easter-egg-rizad",
+    "path": "easter-egg-rizad",
+    "description": "Vote Rizad"
+  },
+  {
+    "id": "patung-bomby",
+    "path": "patung-bomby",
+    "description": "patung bomby"
+  },
+  {
+    "id": "easter-egg-rio",
+    "path": "easter-egg-rio",
+    "description": "Rio Mascara"
+  },
+  {
+    "id": "bunga-ungu",
+    "path": "bunga-ungu",
+    "description": "bunga ungu"
+  },
+  {
+    "id": "easter-egg-mefelz",
+    "path": "easter-egg-mefelz",
+    "description": "Les Mefelz"
+  },
+  {
+    "id": "monitor-4k",
+    "path": "monitor-4k",
+    "description": "Monitor 4K"
+  },
+  {
+    "id": "easter-egg-obit",
+    "path": "easter-egg-obit",
+    "description": "Pied De Obit"
+  },
+  {
+    "id": "mangkok-legend",
+    "path": "mangkok-legend",
+    "description": "mangkok legendaris"
+  },
+  {
+    "id": "cd-miawaug",
+    "path": "cd-miawaug",
+    "description": "MiawAug Wibu music disc"
+  },
+  {
+    "id": "pentungan",
+    "path": "pentungan",
+    "description": "pentungan"
+  },
+  {
+    "id": "cd-windah",
+    "path": "cd-windah",
+    "description": "Kimi No Life music disc"
+  },
+  {
+    "id": "gelas-warnet",
+    "path": "gelas-warnet",
+    "description": "gelas biasa"
+  },
+  {
+    "id": "gelas-miawaug",
+    "path": "gelas-miawaug",
+    "description": "gelas MiawAug"
+  },
+  {
+    "id": "sokocha",
+    "path": "sokocha",
+    "description": "sokocha"
+  },
+  {
+    "id": "kotak-alat",
+    "path": "kotak-alat",
+    "description": "kotak peralatan"
+  },
+  {
+    "id": "tengkorak",
+    "path": "tengkorak",
+    "description": "tengkorak",
+    "type": "essential"
+  },
+  {
+    "id": "tengkorak-merah",
+    "path": "tengkorak-merah",
+    "description": "tengkorak merah",
+    "type": "essential"
+  },
+  {
+    "id": "tengkorak-biru",
+    "path": "tengkorak-biru",
+    "description": "tengkorak biru",
+    "type": "essential"
+  },
+  {
+    "id": "tengkorak-hijau",
+    "path": "tengkorak-hijau",
+    "description": "tengkorak hijau",
+    "type": "essential"
+  },
+  {
+    "id": "tengkorak-emas",
+    "path": "tengkorak-emas",
+    "description": "tengkorak emas",
+    "type": "treasure"
+  },
+  {
+    "id": "painting-warnet-life",
+    "path": "painting",
+    "description": "???",
+    "type": "bonus"
+  },
+  {
+    "id": "painting-napos",
+    "path": "painting",
+    "description": "???",
+    "type": "magic"
+  },
+  {
+    "id": "painting-napos-fian",
+    "path": "painting",
+    "description": "???",
+    "type": "treasure"
+  },
+  {
+    "id": "toilet",
+    "path": "toilet",
+    "description": "toilet"
+  },
+  {
+    "id": "toilet-emas",
+    "path": "toilet-emas",
+    "description": "toilet emas"
+  },
+  {
+    "id": "peti-mati",
+    "path": "peti-mati",
+    "description": "peti mati"
+  },
+  {
+    "id": "bunga-hitam",
+    "path": "bunga-hitam",
+    "description": "bunga hitam"
+  },
+  {
+    "id": "bunga-putih",
+    "path": "bunga-putih",
+    "description": "bunga putih"
+  },
+  {
+    "id": "peti-mati-meja",
+    "path": "peti-mati-meja",
+    "description": "peti mati (meja)"
+  },
+  {
+    "id": "peti-mati-emas",
+    "path": "peti-mati-emas",
+    "description": "peti mati emas"
+  },
+  {
+    "id": "peti-mati-emas-meja",
+    "path": "peti-mati-emas-meja",
+    "description": "peti mati emas (meja)"
+  },
+  {
+    "id": "kuali-mini",
+    "path": "kuali-mini",
+    "description": "kuali mini"
+  },
+  {
+    "id": "batu-nisan",
+    "path": "batu-nisan",
+    "description": "batu nisan"
+  },
+  {
+    "id": "sapu",
+    "path": "sapu",
+    "description": "sapu",
+    "type": "magic"
+  }
+]
