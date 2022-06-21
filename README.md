@@ -8,7 +8,11 @@
 
 <p align="center" style="text-align:center">Mau racik resep apa hari ini?</p>
 
+![GitHub deployments](https://img.shields.io/github/deployments/estehbunny/warnet-life-racikan-penyihir-gatsby/Github-Pages?label=GitHub%20Pages%20status)
+
 Laman ini dibuat untuk menampilkan resep-resep racikan penyihir yang tersedia dari **jam 00:00-03:00**. Anda dapat menggunakan resep racikan dari laman ini atau melalui tablet kesayangan anda di Warnet Life.
+
+Repository ini berbeda dengan versi **[estehbunny/warnet-life-racikan-penyihir](https://github.com/estehbunny/warnet-life-racikan-penyihir)**, di mana informasi racikan hadir lebih lengkap (dengan estimasi biaya racikan) dan dapat diperbarui melalui file JSON.
 
 ## Cara Akses Resep / Lokasi Racikan Penyihir
 
@@ -24,52 +28,54 @@ Untuk saat ini, tersedia 22 resep racikan yang terbagi atas 4 kategori, yaitu:
 
 ### Easter Egg
 
+> **CATATAN**: Kami tidak menambahkan resep untuk item crafting yang hanya tersedia pada quest, misalnya **kepala sarah** dan **bom**!
+
 #### Painting
 
-| Item 1        | Item 2     | Item 3  | Item 4  | Hasil Racikan          |
-| :-------:     | :--------: | :-----: | :-----: | :---------------:      |
-| Kotak Rahasia | Garam Suci | Sandal  | Kamera  | Windah Casino Painting |
-| Kotak Rahasia | Garam Suci | Sandal  | Mouse GG | Perempuan Hilang |
-| Kotak Rahasia | Garam Suci | Sandal  | Jam     | Aci GameSpot |
-| Kotak Rahasia | Garam Suci | Sandal  | PC GG   | Vote Rizad |
-| Kotak Rahasia | Garam Suci | Sandal  | Patung Bomby | Rio Mascara |
-| Kotak Rahasia | Garam Suci | Sandal  | Bunga Ungu | Les Mefelz |
-| Kotak Rahasia | Garam Suci | Sandal  | Monitor GG | Pied De Obit |
+| Item 1        | Item 2     | Item 3  | Item 4  | Hasil Racikan          | Introduced in |
+| :-------:     | :--------: | :-----: | :-----: | :---------------:      | :----: |
+| Kotak Rahasia | Garam Suci | Sandal  | Mouse Gaming | Perempuan Hilang | 2.5 |
+| Kotak Rahasia | Garam Suci | Sandal  | Jam     | Aci GameSpot | 2.5 |
+| Kotak Rahasia | Garam Suci | Sandal  | PC GG   | Vote Rizad | 2.5 |
+| Kotak Rahasia | Garam Suci | Sandal  | Kamera  | Windah Casino Painting | 2.7 |
+| Kotak Rahasia | Garam Suci | Sandal  | Patung Bomby | Rio Mascara | 2.10 |
+| Kotak Rahasia | Garam Suci | Sandal  | Bunga Ungu | Les Mefelz | 2.10 |
+| Kotak Rahasia | Garam Suci | Sandal  | Monitor 4K | Pied De Obit | 2.11 |
 
 #### Disc & Stuffs
 
-| Item 1        | Item 2     | Item 3  | Item 4  | Hasil Racikan          |
-| :-------:     | :--------: | :-----: | :-----: | :---------------:      |
-| Kotak Rahasia | Garam Suci | Sandal  | Mangkok Legendaris | Kimi No Life Music Disc |
-| Kotak Rahasia | Garam Suci | Sandal  | Pentungan | MiawAug Wibu Music Disc |
-| Kotak Rahasia | Garam Suci | Sandal  | Gelas Biasa | Gelas MiawAug |
-| Kotak Rahasia | Garam Suci | Sandal  | Gelas MiawAug | Sokocha |
+| Item 1        | Item 2     | Item 3  | Item 4  | Hasil Racikan          | Introduced in |
+| :-------:     | :--------: | :-----: | :-----: | :---------------:      | :----: |
+| Kotak Rahasia | Garam Suci | Sandal  | Mangkok Legendaris | Kimi No Life Music Disc | 2.5 |
+| Kotak Rahasia | Garam Suci | Sandal  | Pentungan | MiawAug Wibu Music Disc | 2.5 |
+| Kotak Rahasia | Garam Suci | Sandal  | Gelas Biasa | Gelas MiawAug | 2.7 |
+| Kotak Rahasia | Garam Suci | Sandal  | Gelas MiawAug | Sokocha | 2.7 |
 
 ### Tengkorak (Penting untuk misi utama chapter 3)
 
-| Item 1    | Item 2          | Item 3  | Item 4      | Hasil Racikan      |
-| :-------: | :--------:      | :-----: | :-----:     | :---------------:  |
-| Pentungan | Kotak Peralatan | Sandal  | Garam Suci  | Tengkorak Putih    |
-| Pentungan | Kotak Peralatan | Kotak Rahasia  | Jam  | Tengkorak Merah    |
-| Pentungan | Kotak Peralatan | Mangkok Legendaris | PC GG | Tengkorak Hijau    |
-| Pentungan | Kotak Peralatan | Sandal  | Jam         | Tengkorak Biru     |
-| Tengkorak Putih | Tengkorak Merah | Tengkorak Hijau | Tengkorak Biru | Tengkorak Emas |
+| Item 1    | Item 2          | Item 3  | Item 4      | Hasil Racikan      | Introduced in |
+| :-------: | :--------:      | :-----: | :-----:     | :---------------:  | :----: |
+| Pentungan | Kotak Peralatan | Sandal  | Garam Suci  | Tengkorak Putih    | 2.5 |
+| Pentungan | Kotak Peralatan | Kotak Rahasia  | Jam  | Tengkorak Merah    | 2.5 |
+| Pentungan | Kotak Peralatan | Mangkok Legendaris | PC GG | Tengkorak Hijau    | 2.5 |
+| Pentungan | Kotak Peralatan | Sandal  | Jam         | Tengkorak Biru     | 2.5 |
+| Tengkorak Putih | Tengkorak Merah | Tengkorak Hijau | Tengkorak Biru | Tengkorak Emas | 2.7 |
 
 ### Perlengkapan Penyihir (Witch's Stuffs)
 
-| Item 1    | Item 2     | Item 3  | Item 4      | Hasil Racikan      |
-| :-------: | :--------: | :-----: | :-----:     | :---------------:  |
-| Peti Mati | Bunga Ungu | Bunga Hitam  | Bunga Putih  | Peti Mati (Meja)  |
-| Peti Mati Emas | Bunga Ungu | Bunga Hitam | Bunga Putih | Peti Mati Emas (Meja) |
-| Peti Mati | Peti Mati (Meja) | Kuali Mini | Batu Nisan | Sapu |
+| Item 1    | Item 2     | Item 3  | Item 4      | Hasil Racikan      | Introduced in |
+| :-------: | :--------: | :-----: | :-----:     | :---------------:  | :----: |
+| Peti Mati | Bunga Ungu | Bunga Hitam  | Bunga Putih  | Peti Mati (Meja)  | 2.8 |
+| Peti Mati Emas | Bunga Ungu | Bunga Hitam | Bunga Putih | Peti Mati Emas (Meja) | 2.8 |
+| Peti Mati | Peti Mati (Meja) | Kuali Mini | Batu Nisan | Sapu | 2.11 |
 
 ### Painting Game Warnet Life
 
-| Item 1        | Item 2     | Item 3      | Item 4      | Hasil Racikan        |
-| :-----:       | :-----:    | :-----:     | :-----:     | :---------------:    |
-| Kotak Rahasia | Garam Suci | Monitor GG  | PC GG       | ??? (Warnet Life)    |
-| Kotak Rahasia | Garam Suci | Toilet      | Toilet      | ??? (Napos)          |
-| Kotak Rahasia | Garam Suci | Toilet Emas | Toilet Emas | ??? (Secret Ending?) |
+| Item 1        | Item 2     | Item 3      | Item 4      | Hasil Racikan        | Introduced in |
+| :-----:       | :-----:    | :-----:     | :-----:     | :---------------:    | :----: |
+| Kotak Rahasia | Garam Suci | Monitor 4K  | PC GG       | ??? (Warnet Life)    | 2.7 |
+| Kotak Rahasia | Garam Suci | Toilet      | Toilet      | ??? (Napos)          | 2.7 |
+| Kotak Rahasia | Garam Suci | Toilet Emas | Toilet Emas | ??? (Secret Ending?) | 2.7 |
 
 ## Technical Notes
 
