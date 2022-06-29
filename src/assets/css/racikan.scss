@@ -124,9 +124,9 @@ footer {
 
 @media screen and (max-width: 599px) {
   .craft {
-    padding: 0.25rem;
-    width: 4rem;
-    min-width: 2rem;
+    padding: 0.25em;
+    width: 4em;
+    min-width: 2em;
     border-width: 2px;
 
     >img {
@@ -159,7 +159,7 @@ footer {
 
 @media screen and (max-width: 449px) {
   body {
-    font-size: 90%;
+    font-size: .8rem;
   }
 
   .craft {
@@ -185,7 +185,7 @@ footer {
 @media screen and (max-width: 359px) {
   .craft>img {
     max-width: 10vmin;
-    max-height: 2rem;
+    max-height: 2em;
   }
 
   body {

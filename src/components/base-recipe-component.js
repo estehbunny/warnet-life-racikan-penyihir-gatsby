@@ -30,7 +30,7 @@ class ItemCard extends React.Component {
   render() {
     const itemCategory = this.item.category
     return (
-      <td className={`craft center ${itemCategory}`}>
+      <td className={`craft center ${itemCategory || ''}`}>
         <img
           src={`./item/${this.item.path}.png`}
           alt={this.item.description}
@@ -83,4 +83,4 @@ class RecipeCard extends React.Component {
   }
 }
 
-export {RecipeCategory, RecipeCard, ItemCard};
+export {RecipeCategory, RecipeCard, ItemCard}
