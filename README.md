@@ -8,7 +8,9 @@
 
 <p align="center" style="text-align:center">Mau racik resep apa hari ini?</p>
 
+![Powered by GatsbyJS](https://shields.io/badge/-GatsbyJS-663399?logo=gatsby)
 ![GitHub deployments](https://img.shields.io/github/deployments/estehbunny/warnet-life-racikan-penyihir-gatsby/Github-Pages?label=GitHub%20Pages%20status)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Visit%20Site-a894bd?logo=github)](https://estehbunny.github.io/warnet-life-racikan-penyihir-gatsby)
 
 Laman ini dibuat untuk menampilkan resep-resep racikan penyihir yang tersedia dari **jam 00:00-03:00**. Anda dapat menggunakan resep racikan dari laman ini atau melalui tablet kesayangan anda di Warnet Life.
 
