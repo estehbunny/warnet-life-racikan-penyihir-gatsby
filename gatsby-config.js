@@ -3,7 +3,7 @@ module.exports = {
     title: `Warnet Life - Racikan Penyihir`,
     siteUrl: `https://estehbunny.github.io/warnet-life-racikan-penyihir-gatsby`
   },
-  pathPrefix: '/reponame',
+  pathPrefix: '/warnet-life-racikan-penyihir-gatsby',
   plugins: [
     'gatsby-plugin-sass',
     {
