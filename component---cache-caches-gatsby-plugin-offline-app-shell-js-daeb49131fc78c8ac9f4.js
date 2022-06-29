@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwarnet_life_racikan_penyihir=self.webpackChunkwarnet_life_racikan_penyihir||[]).push([[306],{1367:function(e,n,t){var r=t(5318);n.__esModule=!0,n.default=void 0;var a=r(t(5354)),u=r(t(7294)),i=function(e){function n(){return e.apply(this,arguments)||this}return(0,a.default)(n,e),n.prototype.render=function(){return u.default.createElement(u.default.Fragment,null)},n}(u.default.Component),l=i;n.default=l}}]);
+//# sourceMappingURL=component---cache-caches-gatsby-plugin-offline-app-shell-js-daeb49131fc78c8ac9f4.js.map
