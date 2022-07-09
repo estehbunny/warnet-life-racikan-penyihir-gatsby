@@ -47,6 +47,19 @@
     "recipe3": "sandal",
     "recipe4": "monitor-4k",
     "result":  "easter-egg-obit"
+  {
+    "recipe1": "kotak-rahasia",
+    "recipe2": "garam-suci",
+    "recipe3": "sandal",
+    "recipe4": "tumbuhan-alien",
+    "result":  "easter-egg-beaconcream"
+  },
+  {
+    "recipe1": "kotak-rahasia",
+    "recipe2": "garam-suci",
+    "recipe3": "sandal",
+    "recipe4": "kipas-alien",
+    "result":  "easter-egg-ollie"
   },
   {
     "recipe1": "kotak-rahasia",

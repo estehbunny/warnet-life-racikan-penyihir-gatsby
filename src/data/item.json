@@ -228,5 +228,25 @@
     "path": "sapu",
     "description": "sapu",
     "type": "magic"
+  },
+  {
+    "id": "kipas-alien",
+    "path": "kipas-alien",
+    "description": "kipas alien"
+  },
+  {
+    "id": "easter-egg-beaconcream",
+    "path": "easter-egg-beaconcream",
+    "description": "Sinetron Baru"
+  },
+  {
+    "id": "tumbuhan-alien",
+    "path": "tumbuhan-alien",
+    "description": "tanaman alien"
+  },
+  {
+    "id": "easter-egg-ollie",
+    "path": "easter-egg-ollie",
+    "description": "Novel Baru"
   }
 ]

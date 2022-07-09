@@ -43,6 +43,8 @@ Untuk saat ini, tersedia 22 resep racikan yang terbagi atas 4 kategori, yaitu:
 | Kotak Rahasia | Garam Suci | Sandal  | Patung Bomby | Rio Mascara | 2.10 |
 | Kotak Rahasia | Garam Suci | Sandal  | Bunga Ungu | Les Mefelz | 2.10 |
 | Kotak Rahasia | Garam Suci | Sandal  | Monitor 4K | Pied De Obit | 2.11 |
+| Kotak Rahasia | Garam Suci | Sandal  | Tanaman Alien | Sinetron Baru | 3.0 |
+| Kotak Rahasia | Garam Suci | Sandal  | Kipas Alien | Novel Baru | 3.0 |
 
 #### Disc & Stuffs
 

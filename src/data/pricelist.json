@@ -152,5 +152,19 @@
     "cost": {
       "token": 50
     }
+  },
+  {
+    "path": "kipas-alien",
+    "description": "kipas alien",
+    "cost": {
+      "token": 15
+    }
+  },
+  {
+    "path": "tumbuhan-alien",
+    "description": "tumbuhan alien",
+    "cost": {
+      "token": 30
+    }
   }
 ]
