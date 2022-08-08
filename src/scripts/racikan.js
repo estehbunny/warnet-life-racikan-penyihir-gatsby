@@ -107,7 +107,8 @@ class Racikan {
       recipe2: recipe2,
       recipe3: recipe3,
       recipe4: recipe4,
-      result: resultItemInfo
+      result: resultItemInfo,
+      since: recipe.since
     }
   }
 

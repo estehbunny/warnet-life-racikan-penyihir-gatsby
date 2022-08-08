@@ -18,6 +18,7 @@ class CategorizedRecipeList extends React.Component {
         recipe3={recipe.recipe3}
         recipe4={recipe.recipe4}
         result={recipe.result}
+        since={recipe.since}
       />
     )
   }

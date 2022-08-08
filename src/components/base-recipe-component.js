@@ -3,22 +3,12 @@ import Helper from '../scripts/helper'
 import Racikan from '../scripts/racikan'
 
 class RecipeCategory extends React.Component {
-  constructor(props) {
-    super(props)
-    this.category = props.category
-  }
-
   render() {
-    return <h2 className='cute-title'>{this.category}</h2>
+    return <h2 className='cute-title'>{this.props.category}</h2>
   }
 }
 
 class ItemCard extends React.Component {
-  constructor(props) {
-    super(props)
-    this.item = props.item
-  }
-
   getItemInfo(item) {
     let itemInfo = `${Helper.capitalize(Helper.oneLinize(item.description))}`
     if (item.cost) {
@@ -28,13 +18,13 @@ class ItemCard extends React.Component {
   }
 
   render() {
-    const itemCategory = this.item.category
+    const itemCategory = this.props.item.category
     return (
       <td className={`craft center ${itemCategory || ''}`}>
         <img
-          src={`./item/${this.item.path}.png`}
-          alt={this.item.description}
-          title={this.getItemInfo(this.item)}
+          src={`./item/${this.props.item.path}.png`}
+          alt={this.props.item.description}
+          title={this.getItemInfo(this.props.item)}
         />
       </td>
     )
@@ -42,17 +32,12 @@ class ItemCard extends React.Component {
 }
 
 class RecipeCard extends React.Component {
-  constructor(props) {
-    super(props)
-    this.recipe1 = props.recipe1
-    this.recipe2 = props.recipe2
-    this.recipe3 = props.recipe3
-    this.recipe4 = props.recipe4
-    this.result = props.result
-  }
-
   generateCraftingRecipeCombinations() {
-    return `${this.recipe1.description} + ${this.recipe2.description} + ${this.recipe3.description} + ${this.recipe4.description}`
+    const recipe1Description = this.props.recipe1.description
+    const recipe2Description = this.props.recipe2.description
+    const recipe3Description = this.props.recipe3.description
+    const recipe4Description = this.props.recipe4.description
+    return `${recipe1Description} + ${recipe2Description} + ${recipe3Description} + ${recipe4Description}`
   }
 
   render() {
@@ -61,12 +46,15 @@ class RecipeCard extends React.Component {
       <table>
         <tbody>
           <tr className='crafting__top-row'>
-            <ItemCard item={this.recipe1} />
-            <ItemCard item={this.recipe2} />
-            <ItemCard item={this.recipe3} />
-            <ItemCard item={this.recipe4} />
-            <td className='crafting__process center'>{`>>`}</td>
-            <ItemCard item={this.result} />
+            <ItemCard item={this.props.recipe1} />
+            <ItemCard item={this.props.recipe2} />
+            <ItemCard item={this.props.recipe3} />
+            <ItemCard item={this.props.recipe4} />
+            <td className='crafting__process center'>
+              <div>{`>>`}</div>
+              <div className='crafting__since'>v{this.props.since}</div>
+            </td>
+            <ItemCard item={this.props.result} />
           </tr>
           <tr className='crafting__bottom-row'>
             <td className='crafting__recipe center' colSpan='4'>
@@ -74,7 +62,7 @@ class RecipeCard extends React.Component {
             </td>
             <td className='crafting__arrow center'>→</td>
             <td className='crafting__result center'>
-              {this.result.description}
+              {this.props.result.description}
             </td>
           </tr>
         </tbody>
