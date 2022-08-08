@@ -29,6 +29,15 @@ class BaseImage extends React.Component {
   }
 }
 
+const Tips = () => {
+  return (
+    <p className='info tips'>
+      <strong>FYI:</strong> Kalian juga bisa estimasikan harga/biaya racikan
+      item di Warnet Life dengan tekan &amp; tahan item pada resep racikan.
+    </p>
+  )
+}
+
 const Heading = () => {
   return (
     <header>
@@ -50,6 +59,7 @@ const InfoRacikan = () => {
         Butuh resep lebih lengkap? Kunjungi <strong>"Resep.apk"</strong> di
         tablet kesayangan anda!
       </p>
+      <Tips />
     </div>
   )
 }
