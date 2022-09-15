@@ -54,6 +54,7 @@ Untuk saat ini, tersedia 22 resep racikan yang terbagi atas 4 kategori, yaitu:
 | Kotak Rahasia | Garam Suci | Sandal  | Pentungan | MiawAug Wibu Music Disc | 2.5 |
 | Kotak Rahasia | Garam Suci | Sandal  | Gelas Biasa | Gelas MiawAug | 2.7 |
 | Kotak Rahasia | Garam Suci | Sandal  | Gelas MiawAug | Sokocha | 2.7 |
+| Bunga Hitam | Bunga Hitam | Bunga Hitam | Bunga Hitam | @cyrosh.peripheral (deskmat) | 3.2 |
 
 ### Tengkorak (Penting untuk misi utama chapter 3)
 
