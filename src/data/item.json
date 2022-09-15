@@ -248,5 +248,10 @@
     "id": "easter-egg-ollie",
     "path": "easter-egg-ollie",
     "description": "Novel Baru"
+  },
+  {
+    "id": "deskmat-cyrosh",
+    "path": "deskmat-cyrosh",
+    "description": "@cyrosh.peripheral"
   }
 ]

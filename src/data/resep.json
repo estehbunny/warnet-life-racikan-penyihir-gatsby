@@ -72,6 +72,14 @@
     "since": "3.0"
   },
   {
+    "recipe1": "bunga-hitam",
+    "recipe2": "bunga-hitam",
+    "recipe3": "bunga-hitam",
+    "recipe4": "bunga-hitam",
+    "result":  "deskmat-cyrosh",
+    "since": "3.2"
+  },
+  {
     "recipe1": "kotak-rahasia",
     "recipe2": "garam-suci",
     "recipe3": "sandal",

@@ -42,6 +42,8 @@ class RecipeCard extends React.Component {
 
   render() {
     let recipeCombinations = this.generateCraftingRecipeCombinations()
+    let description = this.props.result.description
+    let doNotCapitalize = description.startsWith('@') ? 'crafting__result--lower' : ''
     return (
       <table>
         <tbody>
@@ -61,8 +63,8 @@ class RecipeCard extends React.Component {
               {recipeCombinations}
             </td>
             <td className='crafting__arrow center'>→</td>
-            <td className='crafting__result center'>
-              {this.props.result.description}
+            <td className={`crafting__result center ${doNotCapitalize}`}>
+              {description}
             </td>
           </tr>
         </tbody>

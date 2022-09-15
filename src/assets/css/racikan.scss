@@ -81,6 +81,9 @@ table {
     font-style: italic;
     color: #ffa351;
     text-transform: uppercase;
+    &--lower {
+      text-transform: none;
+    }
   }
 
   &__process {
